@@ -1,0 +1,36 @@
+{
+    "misc": {
+        "version": "1.0.0",
+        "encrypted": false,
+        "userId": "1dhjgtjsc"
+    },
+    "main": {
+        "projects_folder": "C:/xampp/htdocs/games/eqftp",
+        "date_format": "d.m.Y",
+        "open_project_connection": false,
+        "debug": false
+    },
+    "connections": {
+        "settings": {
+            "1dhjhm68l": {
+                "id": "1dhjhm68l",
+                "name": "Test",
+                "localpath": "C:/xampp/htdocs/games",
+                "remotepath": "/htdocs/Test",
+                "check_difference": true,
+                "autoupload": true,
+                "ignore_list": ""
+            }
+        },
+        "credentials": {
+            "1dhjhm68l": {
+                "protocol": "ftp",
+                "server": " ftp.byethost7.com",
+                "port": "21",
+                "login": " b7_24293187",
+                "rsa": "",
+                "password": "Vortex123!"
+            }
+        }
+    }
+}
